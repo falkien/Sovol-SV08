@@ -1,1 +1,12 @@
-This is just a quick start page for the SV08 Box Turtle conversion
+# Sovol Sv08 with Box Turtle
+You will find here all the files needed to upgrade your Sovol Sv08 with a box turtle and XOL toolhead. This is a work in progress so please bear with me. <br />
+<br />
+This will hopefully have everything that you need to do a conversion. It has taken me several months to get this up and running and I will also be updating this as I go, so excuse the gramar and layout.  <br />
+ <br />
+Rails purchased <br />
+<br />
+(4) 450mm - (2) MGN12H rails for Y and (2) MGN12H rails for Z <br />
+<br />
+(1) 348mm - MGN12H rail for X <- Custom cut to fit, could use a 350mm <br />
+<br />
+![alt text](https://github.com/falkien/Sunlu_S8_Switchwire_Conversion/blob/main/Pics/Front%20Main.jpg)
