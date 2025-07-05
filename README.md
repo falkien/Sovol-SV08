@@ -6,14 +6,22 @@ This will hopefully have everything that you need to do a conversion. It has tak
 
  Here is a list of what I currently have.
 
- Sovol SV08 Printer
- XOL-Metrix Toolhead
- Octopus Pro (Canbus)
- BTT EBB36 (Canbus)
- BTT Eddy-Duo (Canbus)
- AFC-Lite (Box Turtle controller / Canbus)
- Box Turtle MMU
- ABP Poop management (under development)
+ Sovol SV08 Printer <br />
+ <br />
+ XOL-Metrix Toolhead <br />
+ <br />
+ Octopus Pro (Canbus) <br />
+ <br />
+ BTT EBB36 (Canbus) <br />
+ <br />
+ BTT Eddy-Duo (Canbus) <br />
+ <br />
+ AFC-Lite (Box Turtle controller / Canbus) <br />
+ <br />
+ Box Turtle MMU <br />
+ <br />
+ ABP Poop management (under development) <br />
+ <br />
 
 ![alt text](https://github.com/user-attachments/assets/8220ba1c-e814-43f2-90c3-26f901b3d7cc)
 
